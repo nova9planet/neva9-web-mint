@@ -1,0 +1,107 @@
+.background {
+  background-image: url('/images/bg_image.png');
+  height: 2250px;
+  width: 4000px;
+}
+
+.audio-box {
+  position: absolute;
+  left: 0%;
+  bottom: -80px;
+  width: 100px;
+  height: 70px;
+}
+
+.minting-box {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  padding: 30px;
+  width: 1400px;
+  height: 600px;
+  box-sizing: border-box;
+  border: 2px solid white;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.minting-imagebox {
+  height: auto;
+  width: auto;
+}
+.minting-btnbox {
+  height: 100%;
+  width: 800px;
+  box-sizing: border-box;
+  padding: 50px;
+  > div {
+    margin-bottom: 23px;
+  }
+}
+.mintingbox-firm {
+  position: absolute;
+  width: 1400px;
+  height: 600px;
+  background-color: white;
+  opacity: 0.05;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.connect-btn {
+  cursor: pointer;
+  background-image: url('/images/wallet_connect.png');
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 300px;
+  height: 80px;
+  top: -100px;
+  right: 0;
+  &:hover {
+    background-image: url('/images/wallet_connect_hover.png');
+  }
+}
+
+.minting-btn-box {
+  cursor: pointer;
+  background-image: url('/images/minting_btn.png');
+  position: relative;
+  margin-bottom: 0px !important;
+  width: 500px;
+  height: 80px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  &:hover {
+    background-image: url('/images/minting_btn_hover.png');
+  }
+}
+
+.minting-btn-box-disabled {
+}
+
+.plus-btn {
+  cursor: pointer;
+  background-image: url('/images/plus_btn.png');
+  width: 45px;
+  height: 45px;
+  background-size: contain;
+  &:active {
+    background-image: url('/images/plus_btn_active.png');
+  }
+}
+
+.minus-btn {
+  cursor: pointer;
+  background-image: url('/images/minus_btn.png');
+  width: 45px;
+  height: 45px;
+  background-size: contain;
+  &:active {
+    background-image: url('/images/minus_btn_active.png');
+  }
+}
