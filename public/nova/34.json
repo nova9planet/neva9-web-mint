@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #34",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/34.png",
+  "dna": "15e43abfde6217f33a9994d95e6682479594dedd",
+  "edition": 34,
+  "date": 1669389582417,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Violet"
+    },
+    {
+      "trait_type": "face",
+      "value": "Red Focus"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Dragon"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Golden Warrior"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nature Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

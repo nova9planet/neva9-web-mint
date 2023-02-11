@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #83",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/83.png",
+  "dna": "8c8e0d848d5e9848f88456c1f3706972335f5234",
+  "edition": 83,
+  "date": 1669389611940,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Violet(A)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "face",
+      "value": "Violet Naughty"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Goblin Horn"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Dark Green Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Bronze Bell"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

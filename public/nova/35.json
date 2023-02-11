@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #35",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/35.png",
+  "dna": "12ee2d58bd39b31f0067149298c8d9a16daeba81",
+  "edition": 35,
+  "date": 1669389583051,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Candy Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Puzzle"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Brown Lion Hat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Brown Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Referee Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

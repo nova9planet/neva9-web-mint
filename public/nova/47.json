@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #47",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/47.png",
+  "dna": "ee24c6f8696a6afb37bf22780044e59a70c856f2",
+  "edition": 47,
+  "date": 1669389589996,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Tease"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Navy Teres Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Golden Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Truth Feather"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

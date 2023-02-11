@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #67",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/67.png",
+  "dna": "61411e2aa38f41d26a01b50c26ad3e6166695f17",
+  "edition": 67,
+  "date": 1669389602289,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Violet Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Red Focus"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Green Haetae"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Golden Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Water Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

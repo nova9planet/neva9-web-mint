@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #38",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/38.png",
+  "dna": "1296cde65cf951937c4d0e7f5cf2a15f0d6c5438",
+  "edition": 38,
+  "date": 1669389584912,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Violet(B)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "face",
+      "value": "Tease"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gold Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Violet Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Alchemy Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

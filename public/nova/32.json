@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #32",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/32.png",
+  "dna": "100685ee7ea6030288161df012a1e3e17647fb20",
+  "edition": 32,
+  "date": 1669389581243,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Yellow(A)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Violet Tongue"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Space Hat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue Robot"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Water Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

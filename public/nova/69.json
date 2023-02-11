@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #69",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/69.png",
+  "dna": "7369de61a4645bc962495c6ee6126926ebd08d17",
+  "edition": 69,
+  "date": 1669389603472,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Violet Universe"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Violet"
+    },
+    {
+      "trait_type": "face",
+      "value": "Concerned"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nebra Sky Disc"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #51",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/51.png",
+  "dna": "369afc6f36e58df4d70e5f51a323ac9d26c289a6",
+  "edition": 51,
+  "date": 1669389592449,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Yellow"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Space"
+    },
+    {
+      "trait_type": "face",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Wonder Woman"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Golden Warrior"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #62",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/62.png",
+  "dna": "d145012c5d7431ad4d65ec56543a54a9a52bc688",
+  "edition": 62,
+  "date": 1669389599315,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Puzzle"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Viking Hat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Red Suit"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

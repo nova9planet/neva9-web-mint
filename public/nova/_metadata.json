@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Nova NFT #1",
+    "image": "https://nova-web-dev.vercel.app/nova/1.png",
+    "description": "Nova NFT",
+    "hash": "031222324151637484",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 1
+      },
+      {
+        "5": 1
+      },
+      {
+        "6": 3
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 1,
+    "date": 1669724479599,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep green"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Deep Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Blue armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Black tongue"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #2",
+    "image": "https://nova-web-dev.vercel.app/nova/2.png",
+    "description": "Nova NFT",
+    "hash": "021221344153627183",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 1
+      },
+      {
+        "5": 3
+      },
+      {
+        "6": 2
+      },
+      {
+        "7": 1
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 2,
+    "date": 1669724485993,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep blue"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Blue armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Tears of blood"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Blue helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #3",
+    "image": "https://nova-web-dev.vercel.app/nova/3.png",
+    "description": "Nova NFT",
+    "hash": "011221344254637283",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 2
+      },
+      {
+        "5": 4
+      },
+      {
+        "6": 3
+      },
+      {
+        "7": 2
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 3,
+    "date": 1669724492275,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Gold armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #4",
+    "image": "https://nova-web-dev.vercel.app/nova/4.png",
+    "description": "Nova NFT",
+    "hash": "041221324151627383",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 1
+      },
+      {
+        "5": 1
+      },
+      {
+        "6": 2
+      },
+      {
+        "7": 3
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 4,
+    "date": 1669724498491,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Deep Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Blue armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Black tongue"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Gold helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #5",
+    "image": "https://nova-web-dev.vercel.app/nova/5.png",
+    "description": "Nova NFT",
+    "hash": "031221324253637484",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 2
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 2
+      },
+      {
+        "5": 3
+      },
+      {
+        "6": 3
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 5,
+    "date": 1669724505072,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep green"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Deep Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Gold armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Tears of blood"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #6",
+    "image": "https://nova-web-dev.vercel.app/nova/6.png",
+    "description": "Nova NFT",
+    "hash": "041121324153617484",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 1
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 1
+      },
+      {
+        "5": 3
+      },
+      {
+        "6": 1
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 6,
+    "date": 1669724511446,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Deep Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Blue armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Tears of blood"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #7",
+    "image": "https://nova-web-dev.vercel.app/nova/7.png",
+    "description": "Nova NFT",
+    "hash": "041422324352627381",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 3
+      },
+      {
+        "5": 2
+      },
+      {
+        "6": 2
+      },
+      {
+        "7": 3
+      },
+      {
+        "8": 1
+      }
+    ],
+    "edition": 7,
+    "date": 1669724517282,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Deep Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Scouter"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Gold helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Bronze Mirror with Fine Linear Design"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #8",
+    "image": "https://nova-web-dev.vercel.app/nova/8.png",
+    "description": "Nova NFT",
+    "hash": "011322334451647484",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 3
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 3
+      },
+      {
+        "4": 4
+      },
+      {
+        "5": 1
+      },
+      {
+        "6": 4
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 8,
+    "date": 1669724522136,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Red suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Black tongue"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Star"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #9",
+    "image": "https://nova-web-dev.vercel.app/nova/9.png",
+    "description": "Nova NFT",
+    "hash": "041322314254637483",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 3
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 2
+      },
+      {
+        "5": 4
+      },
+      {
+        "6": 3
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 9,
+    "date": 1669724526974,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Gold armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #10",
+    "image": "https://nova-web-dev.vercel.app/nova/10.png",
+    "description": "Nova NFT",
+    "hash": "041421344151627483",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 1
+      },
+      {
+        "5": 1
+      },
+      {
+        "6": 2
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 10,
+    "date": 1669724533225,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Blue armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Black tongue"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #11",
+    "image": "https://nova-web-dev.vercel.app/nova/11.png",
+    "description": "Nova NFT",
+    "hash": "021121334452637182",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 1
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 3
+      },
+      {
+        "4": 4
+      },
+      {
+        "5": 2
+      },
+      {
+        "6": 3
+      },
+      {
+        "7": 1
+      },
+      {
+        "8": 2
+      }
+    ],
+    "edition": 11,
+    "date": 1669724539462,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep blue"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Red suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Scouter"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Blue helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Caduceus"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #12",
+    "image": "https://nova-web-dev.vercel.app/nova/12.png",
+    "description": "Nova NFT",
+    "hash": "041421314453627184",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 4
+      },
+      {
+        "5": 3
+      },
+      {
+        "6": 2
+      },
+      {
+        "7": 1
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 12,
+    "date": 1669724545770,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Red suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Tears of blood"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Blue helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #13",
+    "image": "https://nova-web-dev.vercel.app/nova/13.png",
+    "description": "Nova NFT",
+    "hash": "031422324151647383",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 1
+      },
+      {
+        "5": 1
+      },
+      {
+        "6": 4
+      },
+      {
+        "7": 3
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 13,
+    "date": 1669724551907,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep green"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Deep Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Blue armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Black tongue"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Star"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Gold helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #14",
+    "image": "https://nova-web-dev.vercel.app/nova/14.png",
+    "description": "Nova NFT",
+    "hash": "031422314254617483",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 1
+      },
+      {
+        "4": 2
+      },
+      {
+        "5": 4
+      },
+      {
+        "6": 1
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 14,
+    "date": 1669724558055,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep green"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Gold armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #15",
+    "image": "https://nova-web-dev.vercel.app/nova/15.png",
+    "description": "Nova NFT",
+    "hash": "031421334352647484",
+    "decodedHash": [
+      {
+        "0": 3
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 3
+      },
+      {
+        "4": 3
+      },
+      {
+        "5": 2
+      },
+      {
+        "6": 4
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 15,
+    "date": 1669724564734,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep green"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Scouter"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Star"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #16",
+    "image": "https://nova-web-dev.vercel.app/nova/16.png",
+    "description": "Nova NFT",
+    "hash": "011422334454617184",
+    "decodedHash": [
+      {
+        "0": 1
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 3
+      },
+      {
+        "4": 4
+      },
+      {
+        "5": 4
+      },
+      {
+        "6": 1
+      },
+      {
+        "7": 1
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 16,
+    "date": 1669724570500,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Aquamarine"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Red suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Blue helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #17",
+    "image": "https://nova-web-dev.vercel.app/nova/17.png",
+    "description": "Nova NFT",
+    "hash": "021421324354627384",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 2
+      },
+      {
+        "4": 3
+      },
+      {
+        "5": 4
+      },
+      {
+        "6": 2
+      },
+      {
+        "7": 3
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 17,
+    "date": 1669724576861,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep blue"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Deep Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "White"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Gold helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #18",
+    "image": "https://nova-web-dev.vercel.app/nova/18.png",
+    "description": "Nova NFT",
+    "hash": "041421334252637483",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 1
+      },
+      {
+        "3": 3
+      },
+      {
+        "4": 2
+      },
+      {
+        "5": 2
+      },
+      {
+        "6": 3
+      },
+      {
+        "7": 4
+      },
+      {
+        "8": 3
+      }
+    ],
+    "edition": 18,
+    "date": 1669724583161,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings1"
+      },
+      {
+        "trait_type": "body",
+        "value": "Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Gold armor"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Scouter"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Tengu"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #19",
+    "image": "https://nova-web-dev.vercel.app/nova/19.png",
+    "description": "Nova NFT",
+    "hash": "041422344451627184",
+    "decodedHash": [
+      {
+        "0": 4
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 4
+      },
+      {
+        "4": 4
+      },
+      {
+        "5": 1
+      },
+      {
+        "6": 2
+      },
+      {
+        "7": 1
+      },
+      {
+        "8": 4
+      }
+    ],
+    "edition": 19,
+    "date": 1669724588982,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Red suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Black tongue"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Blue helmet"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Sword of Fire"
+      }
+    ]
+  },
+  {
+    "name": "Nova NFT #20",
+    "image": "https://nova-web-dev.vercel.app/nova/20.png",
+    "description": "Nova NFT",
+    "hash": "021422334453617281",
+    "decodedHash": [
+      {
+        "0": 2
+      },
+      {
+        "1": 4
+      },
+      {
+        "2": 2
+      },
+      {
+        "3": 3
+      },
+      {
+        "4": 4
+      },
+      {
+        "5": 3
+      },
+      {
+        "6": 1
+      },
+      {
+        "7": 2
+      },
+      {
+        "8": 1
+      }
+    ],
+    "edition": 20,
+    "date": 1669724594696,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Deep blue"
+      },
+      {
+        "trait_type": "circle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "wing",
+        "value": "Angel wings2"
+      },
+      {
+        "trait_type": "body",
+        "value": "Ivory"
+      },
+      {
+        "trait_type": "clothes",
+        "value": "Red suit"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "Tears of blood"
+      },
+      {
+        "trait_type": "earring",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "hat",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "wand",
+        "value": "Bronze Mirror with Fine Linear Design"
+      }
+    ]
+  }
+]

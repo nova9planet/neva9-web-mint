@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #6",
+  "image": "https://nova-web-dev.vercel.app/nova/6.png",
+  "description": "Nova NFT",
+  "hash": "041121324153617484",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 1
+    },
+    {
+      "2": 1
+    },
+    {
+      "3": 2
+    },
+    {
+      "4": 1
+    },
+    {
+      "5": 3
+    },
+    {
+      "6": 1
+    },
+    {
+      "7": 4
+    },
+    {
+      "8": 4
+    }
+  ],
+  "edition": 6,
+  "date": 1669724511446,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Light green"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings1"
+    },
+    {
+      "trait_type": "body",
+      "value": "Deep Ivory"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue armor"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Tears of blood"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Tengu"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Sword of Fire"
+    }
+  ]
+}

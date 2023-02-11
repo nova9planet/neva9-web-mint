@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #27",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/27.png",
+  "dna": "13e9b75a8c0cc81651942e74c5030fe2fc8c28d9",
+  "edition": 27,
+  "date": 1669389578361,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Violet(B)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Chic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Red Wonder Woman"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Yellow Fabric"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Referee Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

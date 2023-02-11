@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #16",
+  "image": "https://nova-web-dev.vercel.app/nova/16.png",
+  "description": "Nova NFT",
+  "hash": "011422334454617184",
+  "decodedHash": [
+    {
+      "0": 1
+    },
+    {
+      "1": 4
+    },
+    {
+      "2": 2
+    },
+    {
+      "3": 3
+    },
+    {
+      "4": 4
+    },
+    {
+      "5": 4
+    },
+    {
+      "6": 1
+    },
+    {
+      "7": 1
+    },
+    {
+      "8": 4
+    }
+  ],
+  "edition": 16,
+  "date": 1669724570500,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Red"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings2"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ivory"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Red suit"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue helmet"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Sword of Fire"
+    }
+  ]
+}

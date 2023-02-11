@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #71",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/71.png",
+  "dna": "f0b39b79186e95a50d05f2b826e0835f06d56448",
+  "edition": 71,
+  "date": 1669389604674,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Yellow Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "face",
+      "value": "Puzzle"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Navy Teres Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Bronze Mirror"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

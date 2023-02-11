@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #75",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/75.png",
+  "dna": "30bda2a5ff1b8638b67feefc6fa10d81ed56380f",
+  "edition": 75,
+  "date": 1669389607335,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Yellow Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Red Naughty"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Gray Wizard"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nature Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

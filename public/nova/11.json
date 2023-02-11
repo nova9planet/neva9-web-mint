@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #11",
+  "image": "https://nova-web-dev.vercel.app/nova/11.png",
+  "description": "Nova NFT",
+  "hash": "021121334452637182",
+  "decodedHash": [
+    {
+      "0": 2
+    },
+    {
+      "1": 1
+    },
+    {
+      "2": 1
+    },
+    {
+      "3": 3
+    },
+    {
+      "4": 4
+    },
+    {
+      "5": 2
+    },
+    {
+      "6": 3
+    },
+    {
+      "7": 1
+    },
+    {
+      "8": 2
+    }
+  ],
+  "edition": 11,
+  "date": 1669724539462,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Deep blue"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Light green"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings1"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ivory"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Red suit"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Scouter"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue helmet"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Caduceus"
+    }
+  ]
+}

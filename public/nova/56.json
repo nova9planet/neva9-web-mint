@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #56",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/56.png",
+  "dna": "ec41dc7a02dc7ac66ff109002b52b7b612ad87bb",
+  "edition": 56,
+  "date": 1669389595607,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Dark Violet(B)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Violet Naughty"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Red Wonder Woman"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue Star Suit"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nebra Sky Disc"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

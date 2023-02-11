@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #43",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/43.png",
+  "dna": "655fbaacf84847361142c9ddced04c6200205051",
+  "edition": 43,
+  "date": 1669389587757,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Puzzle"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Red Teres Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Violet Fabric"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nova Shield"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

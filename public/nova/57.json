@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #57",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/57.png",
+  "dna": "e8aaef888dfacf93e965ed653a72bfe32267deea",
+  "edition": 57,
+  "date": 1669389596214,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Yellow"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Violet"
+    },
+    {
+      "trait_type": "face",
+      "value": "Concerned"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Priest"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Green Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Alchemy Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

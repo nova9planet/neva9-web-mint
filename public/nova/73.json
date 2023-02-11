@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #73",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/73.png",
+  "dna": "69b391b1212bd85e6c32758b2168751b168e009a",
+  "edition": 73,
+  "date": 1669389605987,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Lilac Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Red Third Eye"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Long Hair"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nebra Sky Disc"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

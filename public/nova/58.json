@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #58",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/58.png",
+  "dna": "40fb0e2b9975c52e4baa55e5855b199098ea91f7",
+  "edition": 58,
+  "date": 1669389596775,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Holy Grail"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

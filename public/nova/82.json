@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #82",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/82.png",
+  "dna": "2ba20d3e469c26b06fdc417d1b329886d38948d1",
+  "edition": 82,
+  "date": 1669389611379,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue(B)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "face",
+      "value": "Cynical"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Dark Green Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nature Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #3",
+  "image": "https://nova-web-dev.vercel.app/nova/3.png",
+  "description": "Nova NFT",
+  "hash": "011221344254637283",
+  "decodedHash": [
+    {
+      "0": 1
+    },
+    {
+      "1": 2
+    },
+    {
+      "2": 1
+    },
+    {
+      "3": 4
+    },
+    {
+      "4": 2
+    },
+    {
+      "5": 4
+    },
+    {
+      "6": 3
+    },
+    {
+      "7": 2
+    },
+    {
+      "8": 3
+    }
+  ],
+  "edition": 3,
+  "date": 1669724492275,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Light purple"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings1"
+    },
+    {
+      "trait_type": "body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Gold armor"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Katana"
+    }
+  ]
+}

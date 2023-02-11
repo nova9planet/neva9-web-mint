@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #52",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/52.png",
+  "dna": "72c0e553e15ccbe464f1bcd10ff14718835eebd2",
+  "edition": 52,
+  "date": 1669389593037,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Lilac"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Space"
+    },
+    {
+      "trait_type": "face",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Haetae"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Golden Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Magic Rose"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

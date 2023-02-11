@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #45",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/45.png",
+  "dna": "977cb13a3e4a36dac9a00ebeae22db7d2b03327a",
+  "edition": 45,
+  "date": 1669389588905,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "face",
+      "value": "Tease"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Black Bat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Green Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Healing Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #9",
+  "image": "https://nova-web-dev.vercel.app/nova/9.png",
+  "description": "Nova NFT",
+  "hash": "041322314254637483",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 3
+    },
+    {
+      "2": 2
+    },
+    {
+      "3": 1
+    },
+    {
+      "4": 2
+    },
+    {
+      "5": 4
+    },
+    {
+      "6": 3
+    },
+    {
+      "7": 4
+    },
+    {
+      "8": 3
+    }
+  ],
+  "edition": 9,
+  "date": 1669724526974,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings2"
+    },
+    {
+      "trait_type": "body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Gold armor"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Tengu"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Katana"
+    }
+  ]
+}

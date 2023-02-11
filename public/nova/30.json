@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #30",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/30.png",
+  "dna": "b21a7ee32d33a4408c42256bf22a0ace97b5c58a",
+  "edition": 30,
+  "date": 1669389580057,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Candy Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Hopeful"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Navy Short Hair"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Navy Warrior"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Love Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #36",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/36.png",
+  "dna": "20bdd7d45fa029ace2436f2640d2641478b548a5",
+  "edition": 36,
+  "date": 1669389583693,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Dark Violet(B)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lavender Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Hopeful"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Haetae"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Navy Suit"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Alchemy Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

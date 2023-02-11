@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #53",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/53.png",
+  "dna": "211a0b75fc45738a30d2737968c1b42a13e17705",
+  "edition": 53,
+  "date": 1669389593557,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Dark Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Anubis"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Yellow Angel"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Monk Staff"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

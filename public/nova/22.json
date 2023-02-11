@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #22",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/22.png",
+  "dna": "a506740d66710db49a87dbc2e492affa975ba862",
+  "edition": 22,
+  "date": 1669389575117,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "face",
+      "value": "Navy Scouter"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Viking Hat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Yellow Fabric"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Bronze Sword"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

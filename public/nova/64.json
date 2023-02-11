@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #64",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/64.png",
+  "dna": "214996ce8f99c15780673b0f0545fd0df39852e1",
+  "edition": 64,
+  "date": 1669389600429,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Violet"
+    },
+    {
+      "trait_type": "face",
+      "value": "Navy Scouter"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Navy Short Hair"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue Suit"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Summoning Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

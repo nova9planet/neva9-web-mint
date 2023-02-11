@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #74",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/74.png",
+  "dna": "70b276e5644e1038b1c09d110591177c32371ca5",
+  "edition": 74,
+  "date": 1669389606754,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lavender Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Wonder Woman"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Dark Violet Wizard"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nova Flag"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

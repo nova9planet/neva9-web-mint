@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #76",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/76.png",
+  "dna": "2de9cd1caed449e592f7499bb411ecdd2c4bbfc1",
+  "edition": 76,
+  "date": 1669389607905,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Violet(B)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lavender Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Confident"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Bat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Red Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Summoning Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

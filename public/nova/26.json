@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #26",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/26.png",
+  "dna": "f2a489fd6a8784c78764c490cb381f277785e3ed",
+  "edition": 26,
+  "date": 1669389577743,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Concerned"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Long Hair"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Golden Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Memory Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

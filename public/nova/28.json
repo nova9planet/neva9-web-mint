@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #28",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/28.png",
+  "dna": "09db45aa31ba21ea0fd516de49375e46b70a3483",
+  "edition": 28,
+  "date": 1669389578900,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Yellow Spotlight"
+    },
+    {
+      "trait_type": "body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "face",
+      "value": "Puzzle"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Navy Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nova Flag"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

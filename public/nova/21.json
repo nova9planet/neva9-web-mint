@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #21",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/21.png",
+  "dna": "225cd730fa85d0ef3cf527a718f1727a37620432",
+  "edition": 21,
+  "date": 1669389574528,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Yellow Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Chic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Priest"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Violet Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Fire Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #54",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/54.png",
+  "dna": "73d88817dc05da5fae7974d88333a263c10fa5d0",
+  "edition": 54,
+  "date": 1669389594212,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Yellow(A)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "face",
+      "value": "Violet Naughty"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Dark Green Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Aegis"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

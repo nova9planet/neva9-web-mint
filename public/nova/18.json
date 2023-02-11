@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #18",
+  "image": "https://nova-web-dev.vercel.app/nova/18.png",
+  "description": "Nova NFT",
+  "hash": "041421334252637483",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 4
+    },
+    {
+      "2": 1
+    },
+    {
+      "3": 3
+    },
+    {
+      "4": 2
+    },
+    {
+      "5": 2
+    },
+    {
+      "6": 3
+    },
+    {
+      "7": 4
+    },
+    {
+      "8": 3
+    }
+  ],
+  "edition": 18,
+  "date": 1669724583161,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Red"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings1"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ivory"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Gold armor"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Scouter"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Tengu"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Katana"
+    }
+  ]
+}

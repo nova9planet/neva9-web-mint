@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #63",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/63.png",
+  "dna": "ba01d3c84bd6db6e8959ba86a4f8679d3fe73556",
+  "edition": 63,
+  "date": 1669389599847,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Violet(B)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Violet"
+    },
+    {
+      "trait_type": "face",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Teres Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Gray Suit"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nova Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

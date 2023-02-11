@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #46",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/46.png",
+  "dna": "3ec9e08f32d41e854e2ad96ef3b72592525d492e",
+  "edition": 46,
+  "date": 1669389589447,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "face",
+      "value": "Red Scouter"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Navy Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Dark Violet Wizard"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nature Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

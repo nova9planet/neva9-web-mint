@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #15",
+  "image": "https://nova-web-dev.vercel.app/nova/15.png",
+  "description": "Nova NFT",
+  "hash": "031421334352647484",
+  "decodedHash": [
+    {
+      "0": 3
+    },
+    {
+      "1": 4
+    },
+    {
+      "2": 1
+    },
+    {
+      "3": 3
+    },
+    {
+      "4": 3
+    },
+    {
+      "5": 2
+    },
+    {
+      "6": 4
+    },
+    {
+      "7": 4
+    },
+    {
+      "8": 4
+    }
+  ],
+  "edition": 15,
+  "date": 1669724564734,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Deep green"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Red"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings1"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ivory"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Scouter"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Star"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Tengu"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Sword of Fire"
+    }
+  ]
+}

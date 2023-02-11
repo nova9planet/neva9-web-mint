@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #33",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/33.png",
+  "dna": "02fac7dfeef42a14fe9da35c0252b8c0b3901047",
+  "edition": 33,
+  "date": 1669389581811,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Yellow Space"
+    },
+    {
+      "trait_type": "body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "face",
+      "value": "Tough"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Black Bat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Yellow Cloak"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Healing Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #29",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/29.png",
+  "dna": "a04a66abb161ae510c63451a0688c7cdfff7d264",
+  "edition": 29,
+  "date": 1669389579506,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Yellow"
+    },
+    {
+      "trait_type": "body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "face",
+      "value": "Tough"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Violet Teres Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Red Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Purifying Stick"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

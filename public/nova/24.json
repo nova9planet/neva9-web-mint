@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #24",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/24.png",
+  "dna": "5074868809521c1a8f6354bd4bf3825f41e22a0c",
+  "edition": 24,
+  "date": 1669389576551,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Violet Universe"
+    },
+    {
+      "trait_type": "body",
+      "value": "Candy Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Chic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Blue Robot"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

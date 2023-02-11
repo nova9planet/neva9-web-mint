@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #49",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/49.png",
+  "dna": "3d8a671d628acbbbfd65ea0da4c1f0dca8a9b129",
+  "edition": 49,
+  "date": 1669389591091,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Violet"
+    },
+    {
+      "trait_type": "face",
+      "value": "Concerned"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Violet Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Alchemy Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

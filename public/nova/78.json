@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #78",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/78.png",
+  "dna": "ec0e56e3c424b34b756557e02f05d45be1e95f7d",
+  "edition": 78,
+  "date": 1669389609057,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Yellow Universe(A)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "face",
+      "value": "Red Focus"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Navy Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Dark Green Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nova Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #7",
+  "image": "https://nova-web-dev.vercel.app/nova/7.png",
+  "description": "Nova NFT",
+  "hash": "041422324352627381",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 4
+    },
+    {
+      "2": 2
+    },
+    {
+      "3": 2
+    },
+    {
+      "4": 3
+    },
+    {
+      "5": 2
+    },
+    {
+      "6": 2
+    },
+    {
+      "7": 3
+    },
+    {
+      "8": 1
+    }
+  ],
+  "edition": 7,
+  "date": 1669724517282,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Red"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings2"
+    },
+    {
+      "trait_type": "body",
+      "value": "Deep Ivory"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Scouter"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Light green"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gold helmet"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Bronze Mirror with Fine Linear Design"
+    }
+  ]
+}

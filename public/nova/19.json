@@ -1,0 +1,75 @@
+{
+  "name": "Nova NFT #19",
+  "image": "https://nova-web-dev.vercel.app/nova/19.png",
+  "description": "Nova NFT",
+  "hash": "041422344451627184",
+  "decodedHash": [
+    {
+      "0": 4
+    },
+    {
+      "1": 4
+    },
+    {
+      "2": 2
+    },
+    {
+      "3": 4
+    },
+    {
+      "4": 4
+    },
+    {
+      "5": 1
+    },
+    {
+      "6": 2
+    },
+    {
+      "7": 1
+    },
+    {
+      "8": 4
+    }
+  ],
+  "edition": 19,
+  "date": 1669724588982,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "circle",
+      "value": "Red"
+    },
+    {
+      "trait_type": "wing",
+      "value": "Angel wings2"
+    },
+    {
+      "trait_type": "body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Red suit"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Black tongue"
+    },
+    {
+      "trait_type": "earring",
+      "value": "Light green"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue helmet"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Sword of Fire"
+    }
+  ]
+}

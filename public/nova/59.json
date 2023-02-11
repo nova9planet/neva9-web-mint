@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #59",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/59.png",
+  "dna": "80946c7ddd7ecedb5c74979a8f5b73a5db60dd11",
+  "edition": 59,
+  "date": 1669389597313,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Lilac"
+    },
+    {
+      "trait_type": "body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "face",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Red Priest"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Yellow Cloak"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Bronze Sword"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

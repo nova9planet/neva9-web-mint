@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #77",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/77.png",
+  "dna": "b8fb345ddc31f0fc836de03bd2b22a7714e3ef7f",
+  "edition": 77,
+  "date": 1669389608455,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Nova Violet"
+    },
+    {
+      "trait_type": "body",
+      "value": "Candy Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Red Naughty"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Blue Haetae"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Violet Suit"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Summoning Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

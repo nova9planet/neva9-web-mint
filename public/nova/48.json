@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #48",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/48.png",
+  "dna": "a51295b2b143f3c8456da87b69d56e1eddef4099",
+  "edition": 48,
+  "date": 1669389590541,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Yellow Spotlight"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Violet"
+    },
+    {
+      "trait_type": "face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gray Sharp Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Statue Of Liberty"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Nova Flag"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #60",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/60.png",
+  "dna": "ec22b16ab18f96f99de50475dabb5f33d46388ed",
+  "edition": 60,
+  "date": 1669389597998,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Nova Yellow(A)"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "Chic"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Gold Helmet"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Statue Of Liberty"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Victory Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

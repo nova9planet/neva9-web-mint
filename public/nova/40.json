@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #40",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/40.png",
+  "dna": "65cf1b628d98239acc6617405c5d089128d613fd",
+  "edition": 40,
+  "date": 1669389586059,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Red Spotlight"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Black Bat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Red Armor"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Fire Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

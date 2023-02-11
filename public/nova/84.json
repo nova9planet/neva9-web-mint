@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #84",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/84.png",
+  "dna": "9f65dd9bb83e09bb14561efd4a4fb60d2d34c8a2",
+  "edition": 84,
+  "date": 1669389612484,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Aura Lilac"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Confident"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Red Goblin Horn"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Violet Wizard"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Alchemy Wand"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

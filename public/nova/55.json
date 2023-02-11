@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #55",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/55.png",
+  "dna": "ef6220435b679ee8d4ca21fcc2bde859d2029c8d",
+  "edition": 55,
+  "date": 1669389594900,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Red Spotlight"
+    },
+    {
+      "trait_type": "body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Brown Viking Hat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Santa"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Aegis"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Light"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

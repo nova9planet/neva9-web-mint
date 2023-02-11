@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #41",
+  "description": "Remember to replace this description",
+  "image": "https://nova-web-dev.vercel.app/nova/41.png",
+  "dna": "48b7c474ce09b31329f6e3140556b2716deb30c0",
+  "edition": 41,
+  "date": 1669389586645,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "body",
+      "value": "Nova Yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Brown Lion Hat"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Golden Warrior"
+    },
+    {
+      "trait_type": "wand",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "nova",
+      "value": "Nova Of Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
